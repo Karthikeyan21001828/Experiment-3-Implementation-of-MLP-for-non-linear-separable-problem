@@ -119,3 +119,4 @@ predict(w1,w2,test)
 ![image](https://github.com/Karthikeyan21001828/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/93427303/9fbaf9e6-228d-444b-a154-cc4cb6e79ba0)
 
 ## RESULT:
+Thus, a program involving python to implement a perceptron for Implementation of MLP for non linearly separable problem is developed and executted successfully.
